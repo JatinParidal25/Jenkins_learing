@@ -15,6 +15,6 @@ public class Prog1 {
 
     System.out.println("Program executed successfully.");
 
-    sc.close();
+    // sc.close();
   }
 }
