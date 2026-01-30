@@ -11,6 +11,8 @@ public class Prog1 {
     int sum = a + b;
     System.out.println("The sum of a and b is: " + sum);
 
+    System.out.println("Program executed successfully.");
+
     sc.close();
   }
 }
